@@ -1,0 +1,122 @@
+[
+  {
+    "sentiment": "Positive",
+    "topics": ["Product"],
+    "score": 5,
+    "summary": "Áo khoác chất lượng tốt, đường may chắc chắn"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery", "Product"],
+    "score": 2,
+    "summary": "Giao hàng nhanh nhưng bình giữ nhiệt bị móp"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System"],
+    "score": 1,
+    "summary": "Ứng dụng bị văng khi thanh toán"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["Product", "Delivery"],
+    "score": 3,
+    "summary": "Sản phẩm và thời gian giao hàng bình thường"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Service", "Delivery", "Product"],
+    "score": 5,
+    "summary": "Tư vấn nhiệt tình, giao hàng nhanh, giày êm"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Service"],
+    "score": 1,
+    "summary": "Nhân viên phản hồi chậm và cộc lốc"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery", "Product"],
+    "score": 1,
+    "summary": "Giao hàng chậm trễ và nhận sai sản phẩm"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["System"],
+    "score": 3,
+    "summary": "Giao diện mới lạ mắt, dùng quen dần"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": 0,
+    "summary": "Invalid feedback"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": 0,
+    "summary": "Invalid feedback"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Product", "Service"],
+    "score": 1,
+    "summary": "Sản phẩm lỗi nguồn, tổng đài chậm hỗ trợ"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Delivery"],
+    "score": 5,
+    "summary": "Shipper nhiệt tình và cẩn thận"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System", "Service"],
+    "score": 1,
+    "summary": "Hệ thống tự hủy đơn, CSKH đổ lỗi mạng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["System", "Product"],
+    "score": 5,
+    "summary": "Tính năng tìm kiếm tốt, hàng chính hãng"
+  },
+  {
+    "sentiment": "Neutral",
+    "topics": ["Service"],
+    "score": 3,
+    "summary": "Đang chờ kế toán gửi hóa đơn đỏ"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Delivery"],
+    "score": 1,
+    "summary": "Shipper tự ý đổi trạng thái và quăng hàng"
+  },
+  {
+    "sentiment": "Positive",
+    "topics": ["Product"],
+    "score": 5,
+    "summary": "Kem dưỡng ẩm tốt, da dịu nhanh"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["Product", "Delivery"],
+    "score": 3,
+    "summary": "Sách đẹp nhưng vận chuyển giao trễ hạn"
+  },
+  {
+    "sentiment": "Negative",
+    "topics": ["System", "Product", "Delivery"],
+    "score": 1,
+    "summary": "App hiển thị sai tồn kho và giao nhầm hàng"
+  },
+  {
+    "sentiment": "Invalid",
+    "topics": [],
+    "score": 0,
+    "summary": "Invalid feedback"
+  }
+]
